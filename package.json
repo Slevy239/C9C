@@ -1,6 +1,6 @@
 {
-  "name": "Cloud 9 Cooking",
   "homepage": "http://slevy239.github.io/C9C",
+  "name": "c9c",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
